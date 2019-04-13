@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">QuanAn</string>
+    <string name="phienban">Version</string>
+    <string name="hoten">Vũ Hải Dương - CNTTK14G</string>
+    <string name="dangtai">Đang tải</string>
+    <string name="email">Email</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="hoac">Hoặc</string>
+    <string name="quenmatkhau">Quên mật khẩu</string>
+    <string name="dangkymoi">Đăng kí mới</string>
+    <string name="nhaplaimatkhau">Nhập lại mật khẩu</string>
+    <string name="dangky">Đăng ký</string>
+    <string name="dangxuly">Đang xử lý</string>
+    <string name="thongbaoloi">Ban chua nhap</string>
+    <string name="thongbaonhaplaimatkhau">Vui long nhap mat khau giong o tren</string>
+    <string name="dangkythanhcong">Dang ky thanh cong</string>
+    <string name="dangnhapthanhcong">Dang nhap thanh cong</string>
+    <string name="dangnhapthatbai">Tài khoản hoặc mật khẩu không đúng !</string>
+    <string name="khoiphucmatkhau">Khôi phục mật khẩu</string>
+    <string name="chuoikhoiphucmatkhau">Bạn vui lòng nhập email để khôi phục mật khẩu !</string>
+    <string name="guimail">Gửi mail</string>
+    <string name="chuoithanhvien">Bạn chưa là thành viên ?</string>
+    <string name="guithongbaokhoiphucthanhcong">Gửi mail thành công !</string>
+    <string name="emailkhonghople">Email không hợp lệ !</string>
+    <string name="odau">Ở đâu</string>
+    <string name="angi">Ăn gì</string>
+    <string name="moinhat">Mới nhất</string>
+    <string name="danhmuc">Danh mục</string>
+    <string name="khuvuc">Khu vực</string>
+    <string name="gantoi">Gần tôi</string>
+    <string name="blogs">Blogs</string>
+    <string name="giaohang">Giao hàng</string>
+    <string name="gameandfun">Game and fun</string>
+    <string name="danhgia">Đánh giá</string>
+    <string name="topmember">Top thành viên</string>
+    <string name="datmon">Đặt món</string>
+    <string name="taianh">Tải ảnh</string>
+    <string name="checkin">Check-in</string>
+    <string name="binhluan">Bình luận</string>
+    <string name="luulai">Lưu lại</string>
+    <string name="chiase">Chia sẻ</string>
+    <string name="dadongcua">Đang đóng cửa</string>
+    <string name="dangmocua">Đang mở cửa</string>
+    <string name="chuanhapemail">Bạn chưa nhập email !</string>
+    <string name="chuanhapmatkhau">Bạn chưa nhập mật khẩu !</string>
+
+
+</resources>

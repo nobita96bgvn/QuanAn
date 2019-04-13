@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#cd2027</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="transparentBackgroundDangnhap">#66000000</color>
+    <color name="colorBackgroungTrangChu">#CCC</color>
+    <color name="colorBlack">#000000</color>
+    <color name="tranparentWhite">#33FFFFFF</color>
+    <color name="xanh">#03A9F4</color>
+
+
+</resources>
